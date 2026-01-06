@@ -2,7 +2,7 @@
 
 ## Objective
 Create a multi-container application that consists of a simple Python Flask web application and a Redis database. The Flask application should use Redis to store and retrieve data.
-
+#
 ### Requirements
 Flask Web Application:
 
@@ -16,3 +16,13 @@ Dockerize Both Services:
 
 3. Create Dockerfiles for both the Flask app and Redis.
 Use Docker Compose to manage the multi-container application.
+#
+<img src="images/web.png" width="600" alt="welcome to coderco">
+
+#
+
+<img src="images/count.png" width="600" alt="to count">
+
+#
+
+
