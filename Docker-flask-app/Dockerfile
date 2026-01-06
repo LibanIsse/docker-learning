@@ -3,4 +3,4 @@ WORKDIR /app
 COPY . .
 RUN pip install flask redis
 EXPOSE 5002
-CMD ["python", "app.py"]
+CMD ["python", "count.py"]

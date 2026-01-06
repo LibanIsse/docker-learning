@@ -6,7 +6,7 @@ services:
       - "5002:5002"
     depends_on:
       - redis
-  redit:
-    image: redis:Latest
-    port:
+  redis:
+    image: redis:latest
+    ports:
     - "6379:6379"
